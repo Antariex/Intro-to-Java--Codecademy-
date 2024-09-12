@@ -24,7 +24,7 @@ Ready to start your journey into the Java programming language? This course will
   <h3>:hammer: Projects:</h3>
 <ul>
   <li><b>Planting a Tree:</b> Introduce yourself to users and plant a tree for them!</li>
-  <li>Java Variables: Mad Libs</li>
+  <li><b>Java Variables: Mad Libs:</b> Use Java to write a Mad Libs word game! Mad Libs have short stories with blank spaces that a player can fill in. The result is usually funny (or strange).</li>
   <li>Math Magic</li>
   <li>A Basic Calculator</li>
   <li>Build a Droid</li>
