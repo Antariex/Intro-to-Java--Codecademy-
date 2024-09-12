@@ -23,7 +23,7 @@ Ready to start your journey into the Java programming language? This course will
   </ol>
   <h3>:hammer: Projects:</h3>
 <ul>
-  <li>Planting a Tree</li>
+  <li><b>Planting a Tree:</b> Introduce yourself to users and plant a tree for them!</li>
   <li>Java Variables: Mad Libs</li>
   <li>Math Magic</li>
   <li>A Basic Calculator</li>
