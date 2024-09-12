@@ -21,4 +21,12 @@ Ready to start your journey into the Java programming language? This course will
   <li>Variables</li>
   <li>Object-Oriented java</li>
   </ol>
+  <h3>:hammer: Projects:</h3>
+<ul>
+  <li>Planting a Tree</li>
+  <li>Java Variables: Mad Libs</li>
+  <li>Math Magic</li>
+  <li>A Basic Calculator</li>
+  <li>Build a Droid</li>
+</ul>
  
