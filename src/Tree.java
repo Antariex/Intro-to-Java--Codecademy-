@@ -1,7 +1,7 @@
 //Introduce yourself to users and plant a tree for them!
 
 public class Tree {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         //This method will introduce myself and print a tree to the screen
 
