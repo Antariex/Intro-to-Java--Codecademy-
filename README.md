@@ -26,7 +26,7 @@ Ready to start your journey into the Java programming language? This course will
   <li><b>Planting a Tree:</b> Introduce yourself to users and plant a tree for them!</li>
   <li><b>Java Variables: Mad Libs:</b> Mad Libs have short stories with blank spaces that a player can fill in. The result is usually funny (or strange).</li>
   <li><b>Math Magic:</b> What's next? Some math, more Java, and a sprinkle of magic. You got this!</li>
-  <li>A Basic Calculator</li>
+  <li><b>A Basic Calculator: </b> In this project, you will use classes, methods, and objects to create a simple arithmetic calculator.</li>
   <li>Build a Droid</li>
 </ul>
  
